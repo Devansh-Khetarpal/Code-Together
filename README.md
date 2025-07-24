@@ -180,12 +180,3 @@ For a full production version with MongoDB, consider adding:
 - Problem creation by users
 - Advanced analytics and progress tracking
 
-## License
-
-This project is open source and available under the MIT License.
-
----
-
-**Happy Coding! 🚀**
-
-*Create rooms, solve problems, and climb the leaderboard with your friends!*
