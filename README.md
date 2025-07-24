@@ -52,8 +52,11 @@ A simple and attractive web-based coding platform where users can create rooms, 
 
 ### Installation
 
-1. **Files are already set up** on your Desktop!
-   ```
+1. **Clone the repository
+Open your terminal and run the following command to download the project.
+git clone [https://github.com/Devansh-Khetarpal/Code-Together.git](https://github.com/Devansh-Khetarpal/Code-Together.git)
+Files are already set up** on your Desktop!
+  ```
    coding-platform/
    ├── index.html          # Frontend UI
    ├── style.css           # Styling
@@ -63,20 +66,19 @@ A simple and attractive web-based coding platform where users can create rooms, 
    └── README.md           # This file
    ```
 
-2. **Install dependencies**
-   ```bash
-   cd ~/Desktop/coding-platform
-   npm install
-   ```
+ 2. **Navigate to the Project Directory
+cd Code-Together
 
-3. **Start the server**
-   ```bash
-   npm start
-   ```
-   
-4. **Open the platform**
-   - Open your browser and go to: `http://localhost:3000`
-   - The server will automatically check for g++ availability
+3. **Install Dependencies
+This command reads the package.json file and installs all the necessary Node.js packages (like Express and Socket.IO).
+npm install
+
+4. **Start the Server
+npm start
+
+5. **Open the Platform
+Open your browser and go to: http://localhost:3000
+The server will automatically check if the g++ compiler is available on your system.
 
 ### Using the Platform
 
