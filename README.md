@@ -1,85 +1,79 @@
-# CodeTogether - Collaborative Coding Platform
+# 🚀 CodeTogether - Collaborative Coding Platform
 
 A simple and attractive web-based coding platform where users can create rooms, solve problems with friends, and compete on a leaderboard.
 
-## Features
+---
 
-✅ **User Authentication**
+## ✨ Features
+
+### ✅ User Authentication
 - Login/Signup functionality
 - Persistent user sessions
 
-✅ **Enhanced Room Management**
+### ✅ Enhanced Room Management
 - Create public/private coding rooms with descriptions
 - Join rooms using 6-digit codes or browse available rooms
 - Real-time participant tracking and management
 - Leave/rejoin rooms with automatic cleanup
 - Copy room codes to clipboard
 
-✅ **Coding Problems**
+### ✅ Coding Problems
 - 10 coding problems of varying difficulty (Easy, Medium, Hard)
 - Problem descriptions with examples
 - Code editor with syntax highlighting
 
-✅ **Problem Solving**
+### ✅ Problem Solving
 - Run code to test solutions
 - Submit solutions for evaluation
 - Real-time feedback and scoring
 
-✅ **Leaderboard**
+### ✅ Leaderboard
 - Track user progress and scores
 - Ranking system based on problems solved
 - Score calculation based on difficulty
 
-✅ **Additional Features**
-- **Room Chat**: Real-time messaging within rooms
-- **Active Rooms Display**: See and join public rooms instantly
-- **Enhanced UI**: Beautiful notifications, loading states, and animations
-- **Room Browsing**: Browse available rooms or join by code
-- **Responsive design** for all devices
-- **Keyboard shortcuts** (Ctrl+Enter to run, Ctrl+Shift+Enter to submit)
-- **Copy to clipboard** functionality for room codes
-- **Auto-cleanup** of empty rooms
+### ✅ Additional Features
+- 💬 **Room Chat**: Real-time messaging within rooms
+- 🔍 **Active Rooms Display**: See and join public rooms instantly
+- 🎨 **Enhanced UI**: Beautiful notifications, loading states, and animations
+- 🌐 **Responsive Design** for all devices
+- ⌨️ **Keyboard Shortcuts**:
+  - `Ctrl + Enter`: Run code
+  - `Ctrl + Shift + Enter`: Submit code
+- 📋 **Copy to Clipboard** for room codes
+- 🧹 **Auto-cleanup** of empty rooms
 
-## Getting Started
+---
 
-### Prerequisites
-- **Node.js** (v14 or higher) - Download from [nodejs.org](https://nodejs.org/)
+## ⚙️ Getting Started
+
+### 🔧 Prerequisites
+- **Node.js** (v14 or higher) – [Download](https://nodejs.org/)
 - **G++ Compiler** (for C++ code execution):
-  - **macOS**: Install Xcode Command Line Tools: `xcode-select --install`
-  - **Linux**: Install g++: `sudo apt-get install g++` (Ubuntu/Debian)
+  - **macOS**: `xcode-select --install`
+  - **Linux**: `sudo apt-get install g++`
   - **Windows**: Install MinGW-w64 or Visual Studio Build Tools
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 
-### Installation
+---
 
-1. **Clone the repository
-Open your terminal and run the following command to download the project.
-git clone [https://github.com/Devansh-Khetarpal/Code-Together.git](https://github.com/Devansh-Khetarpal/Code-Together.git)
-Files are already set up** on your Desktop!
-  ```
-   coding-platform/
-   ├── index.html          # Frontend UI
-   ├── style.css           # Styling
-   ├── script.js           # Frontend logic
-   ├── server.js           # Node.js backend
-   ├── package.json        # Dependencies
-   └── README.md           # This file
-   ```
+### 🛠️ Installation
 
- 2. **Navigate to the Project Directory
+```bash
+# 1. Clone the repository
+git clone https://github.com/Devansh-Khetarpal/Code-Together.git
 cd Code-Together
 
-3. **Install Dependencies
-This command reads the package.json file and installs all the necessary Node.js packages (like Express and Socket.IO).
+# 2. Install dependencies
 npm install
 
-4. **Start the Server
+# 3. Start the server
 npm start
 
-5. **Open the Platform
+# 4. Open the Platform
 Open your browser and go to: http://localhost:3000
 The server will automatically check if the g++ compiler is available on your system.
-
+```
 ### Using the Platform
 
 #### 1. **Authentication**
