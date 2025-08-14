@@ -294,11 +294,9 @@ function generateSampleProblems() {
 
 function generateSampleUsers() {
     users = [
-        { id: 1, username: 'alice_codes', email: 'alice@example.com', password: 'password123', problemsSolved: 8, score: 245 },
-        { id: 2, username: 'bob_dev', email: 'bob@example.com', password: 'password123', problemsSolved: 6, score: 180 },
-        { id: 3, username: 'charlie_prog', email: 'charlie@example.com', password: 'password123', problemsSolved: 10, score: 320 },
-        { id: 4, username: 'diana_code', email: 'diana@example.com', password: 'password123', problemsSolved: 4, score: 120 },
-        { id: 5, username: 'eve_script', email: 'eve@example.com', password: 'password123', problemsSolved: 7, score: 210 }
+        { id: 1, username: 'devansh', email: 'devansh@gmail.com', password: 'password123', problemsSolved: 8, score: 245 },
+        { id: 2, username: 'dev', email: 'dev@gmail.com', password: 'password123', problemsSolved: 6, score: 180 },
+        { id: 3, username: 'deva', email: 'deva@gmail.com', password: 'password123', problemsSolved: 10, score: 320 }
     ];
     
     leaderboard = users.map(user => ({
