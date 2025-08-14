@@ -54,7 +54,6 @@ A simple and attractive web-based coding platform where users can create rooms, 
   - **Linux**: `sudo apt-get install g++`
   - **Windows**: Install MinGW-w64 or Visual Studio Build Tools
 - A modern web browser (Chrome, Firefox, Safari, Edge)
-
 ---
 
 ### 🛠️ Installation
