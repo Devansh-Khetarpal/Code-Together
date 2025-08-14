@@ -79,8 +79,8 @@ The server will automatically check if the g++ compiler is available on your sys
 - **Sign Up**: Create a new account with username, email, and password
 - **Login**: Use existing credentials to log in
 - Test credentials available:
-  Username: `devansh`, Password: `password123`
-  Username: `dev`, Password: `password123`
+ - Username: `deva`, Password: `123456`
+ - Username: `dev`, Password: `123456`
 
 #### 2. **Creating a Room**
 - Click "Create Room" on the home page
