@@ -20,6 +20,7 @@ else
     echo "   - Windows: Install MinGW-w64"
 fi
 
+
 echo ""
 echo "🌐 Starting server on http://localhost:3000"
 echo "   Press Ctrl+C to stop the server"
