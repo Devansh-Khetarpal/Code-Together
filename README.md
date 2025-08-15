@@ -143,6 +143,7 @@ The server will automatically check if the g++ compiler is available on your sys
 - **Compiler**: G++ for C++ code execution
 - **Storage**: Browser localStorage + Server-side processing
 - **Styling**: Custom CSS with modern design principles
+- **Containerization**: Docker
 - **Icons**: Font Awesome
 - **Fonts**: Google Fonts (Inter)
 
