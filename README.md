@@ -168,11 +168,7 @@ All data is stored locally in your browser using localStorage:
 ## Future Enhancements (MongoDB Integration)
 
 For a full production version with MongoDB, consider adding:
-- Server-side authentication and user management
-- Real-time collaboration using WebSockets
-- Persistent data storage across devices
 - More advanced code execution and testing
-- Chat functionality in rooms
 - Problem creation by users
 - Advanced analytics and progress tracking
 
